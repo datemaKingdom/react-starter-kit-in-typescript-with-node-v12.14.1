@@ -5,7 +5,7 @@
 本アプリケーションはnode-v12.14.1で構築した環境のため、最新のVerだと動作しないケースがあるかもしれません。
 
 ## yarn のインストール
-yarn をインストールします。
+yarn(https://classic.yarnpkg.com/lang/en/) をインストールします。
 
 ## Visual Studio Code のインストール
 https://code.visualstudio.com/
