@@ -5,11 +5,10 @@
 本アプリケーションはnode-v12.14.1で構築した環境のため、最新のVerだと動作しないケースがあるかもしれません。
 
 ## yarn のインストール
-yarn(https://classic.yarnpkg.com/lang/en/) をインストールします。
+[yarn](https://classic.yarnpkg.com/lang/en/) をインストールします。
 
 ## Visual Studio Code のインストール
-https://code.visualstudio.com/
-VSCode をインストールします。
+[VSCode](https://code.visualstudio.com/) をインストールします。
 
 ## パッケージのDL
 https://github.com/datemaKingdom/react-starter-kit-in-typescript-with-node-v12.14.1
