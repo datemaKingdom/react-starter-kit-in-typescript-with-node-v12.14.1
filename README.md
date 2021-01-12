@@ -1,10 +1,13 @@
 # 環境準備
 
-## Node のインストール方法
+## Node のインストール
 [Node.js](https://nodejs.org/) をインストールします。
 本アプリケーションはnode-v12.14.1で構築した環境のため、最新のVerだと動作しないケースがあるかもしれません。
 
-## Visual Studio Code
+## yarn のインストール
+yarn をインストールします。
+
+## Visual Studio Code のインストール
 https://code.visualstudio.com/
 VSCode をインストールします。
 
